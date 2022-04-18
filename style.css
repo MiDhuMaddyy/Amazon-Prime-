@@ -1,0 +1,139 @@
+.d-flex{
+    color:white; ;
+}
+.navbar{
+    background-color: #1a252f;
+    height: 80px;
+    
+
+}
+.logo{
+    padding-left: 30px;
+    width: 155px;
+    height: 35px;
+}
+.welcome{
+    font-size: 2rem;
+line-height: 3.1rem;
+}
+.join{
+    font-size: 1 rem;
+line-height: 1.8rem;
+}
+    
+.left{
+    background-color: black;
+    color: white;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 80px;
+    font-size: x-large;
+    
+}
+
+
+.your{
+    font-size: 2.2rem;
+line-height: 3.1rem;
+
+}
+.with{
+    font-size: 1.3rem;
+line-height: 1.8rem;
+
+}
+.sub1{
+    color: black;
+}
+.block1{
+    display: flex;
+}
+
+body{
+    margin: 0%;
+}
+.mem{
+    font-size: 1.3rem;
+}
+.one{
+    font-size: 2.2rem;
+line-height: 3.1rem;
+}
+.block2{
+ display: flex;
+ color: white;
+ 
+
+}
+.sec{
+
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    display: flex;
+}
+
+.sec1{
+    justify-content: center;
+ align-items: center;
+    flex-direction: column;
+    display: flex;
+    
+}
+.even{
+    font-size: 2.2rem;
+text-align: left;
+
+line-height: 1.2
+}
+.the{
+    font-size: 1 rem;
+}
+.block3{
+    display: flex;
+    color: white;
+}
+.sec2{
+    justify-content: center;
+ align-items: center;
+    flex-direction: column;
+    display: flex;
+    
+}
+
+.block4{
+    display: flex;
+    color: white;
+}
+.sec3{
+    justify-content: center;
+ align-items: center;
+    flex-direction: column;
+    display: flex;
+}
+
+.img {
+    margin: 5px;
+}
+*{
+    
+ margin: 0;
+ padding: 0;
+ font-family: Arial, Helvetica, sans-serif;
+ box-sizing: border-box;
+}
+.dropdown-menu{
+    column-rule: 1px solid #0f171e;
+    column-rule-width: 1px;
+    column-rule-style: solid;
+    column-rule-color: rgb(15, 23, 30);
+    background-color:#252e39;
+    
+    
+}
+.dropdown-item{
+    color: #c4cacf;
+}
+
